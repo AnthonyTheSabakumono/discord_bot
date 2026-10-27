@@ -1,0 +1,414 @@
+[
+  {
+    "id": 1,
+    "question": "Choose the sentence with the best use of the subjunctive mood:",
+    "options": [
+      "If I was you, I would study harder.",
+      "If I were you, I would study harder.",
+      "If I am you, I would study harder.",
+      "If I be you, I would study harder."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 2,
+    "question": "Select the correct sentence using the correct form of the verb 'to lie' (recline):",
+    "options": [
+      "Yesterday, I lay down for a nap.",
+      "Yesterday, I lied down for a nap.",
+      "Yesterday, I lain down for a nap.",
+      "Yesterday, I lying down for a nap."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 3,
+    "question": "Which sentence uses the passive voice correctly?",
+    "options": [
+      "The cake was eaten by him yesterday.",
+      "The cake was ate by him yesterday.",
+      "The cake were eaten by him yesterday.",
+      "The cake is ate by him yesterday."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 4,
+    "question": "Identify the correct conditional sentence type 3:",
+    "options": [
+      "If she will have studied, she would pass.",
+      "If she had studied, she would have passed.",
+      "If she studied, she would have passed.",
+      "If she studies, she would have passed."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 5,
+    "question": "Pick the sentence that correctly uses a non-defining relative clause:",
+    "options": [
+      "My brother, who lives in Japan, is visiting us next week.",
+      "The man who is wearing a hat is my father.",
+      "The book which I borrowed is interesting.",
+      "The girl who studies hard is my sister."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 6,
+    "question": "Choose the sentence with the correct use of the modal verb expressing obligation in the past:",
+    "options": [
+      "You must to finish the report yesterday.",
+      "You had to finish the report yesterday.",
+      "You must finished the report yesterday.",
+      "You must finishing the report yesterday."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 7,
+    "question": "Select the correct sentence with subject-verb agreement:",
+    "options": [
+      "Neither the teacher nor the students was ready.",
+      "Neither the teacher nor the students were ready.",
+      "Neither the teacher or the students were ready.",
+      "Neither the teacher or the students was ready."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 8,
+    "question": "Choose the sentence with correct usage of reported speech (past tense):",
+    "options": [
+      "He said that he is tired.",
+      "He said that he was tired.",
+      "He said that he will be tired.",
+      "He said that he has been tired."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 9,
+    "question": "Which sentence correctly uses the future perfect tense?",
+    "options": [
+      "By next year, I will finished college.",
+      "By next year, I will have finished college.",
+      "By next year, I will be finishing college.",
+      "By next year, I will finish college."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 10,
+    "question": "Choose the sentence with correct use of 'used to':",
+    "options": [
+      "I used to going to the gym every day.",
+      "I use to go to the gym every day.",
+      "I used to go to the gym every day.",
+      "I used to went to the gym every day."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 11,
+    "question": "Identify the sentence with correct placement of adverbs:",
+    "options": [
+      "She always has been late to meetings.",
+      "She has always been late to meetings.",
+      "She has been always late to meetings.",
+      "She has been late always to meetings."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 12,
+    "question": "Pick the sentence that correctly uses the past perfect continuous tense:",
+    "options": [
+      "I had been working all night before the meeting.",
+      "I have been working all night before the meeting.",
+      "I was working all night before the meeting.",
+      "I had worked all night before the meeting."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 13,
+    "question": "Choose the sentence with correct use of countable and uncountable nouns:",
+    "options": [
+      "She has many informations about the topic.",
+      "She has much information about the topic.",
+      "She has many information about the topic.",
+      "She has much informations about the topic."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 14,
+    "question": "Which sentence uses a correct comparative structure?",
+    "options": [
+      "This is more better than the other option.",
+      "This is better than the other option.",
+      "This is best than the other option.",
+      "This is more best than the other option."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 15,
+    "question": "Select the sentence that uses an infinitive correctly:",
+    "options": [
+      "She wants learning French.",
+      "She wants to learn French.",
+      "She wants learn French.",
+      "She wants to learning French."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 16,
+    "question": "Pick the sentence with correct plural form:",
+    "options": [
+      "The criterias are listed here.",
+      "The criteria are listed here.",
+      "The criterias is listed here.",
+      "The criteria is listed here."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 17,
+    "question": "Choose the sentence that correctly uses 'either...or':",
+    "options": [
+      "Either John or his friends is coming to the party.",
+      "Either John or his friends are coming to the party.",
+      "Either John or his friends am coming to the party.",
+      "Either John or his friends be coming to the party."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 18,
+    "question": "Identify the sentence with correct use of 'wish' for a present regret:",
+    "options": [
+      "I wish I knew the answer now.",
+      "I wish I know the answer now.",
+      "I wish I will know the answer now.",
+      "I wish I would know the answer now."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 19,
+    "question": "Pick the sentence with correct use of gerunds:",
+    "options": [
+      "She enjoys to swim in the ocean.",
+      "She enjoys swimming in the ocean.",
+      "She enjoys swim in the ocean.",
+      "She enjoys swimming in ocean."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 20,
+    "question": "Choose the sentence that correctly uses 'although':",
+    "options": [
+      "Although he was tired, he went to the gym.",
+      "Although he was tired but he went to the gym.",
+      "Although he was tired so he went to the gym.",
+      "Although he was tired and he went to the gym."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 21,
+    "question": "Choose the best word to complete the sentence: 'The CEO’s decision was met with __________ by the employees.'",
+    "options": [
+      "enthusiasm",
+      "enthusiasm and some doubt",
+      "enthusiastic",
+      "enthusiastically"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 22,
+    "question": "Which word is closest in meaning to 'obsolete'?",
+    "options": [
+      "outdated",
+      "optional",
+      "old-fashioned but still used",
+      "modern"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 23,
+    "question": "Pick the word that best fits in this sentence: 'He gave a __________ explanation that everyone understood.'",
+    "options": ["confusing", "clear", "clarity", "clearing"],
+    "answer": 1
+  },
+  {
+    "id": 24,
+    "question": "Choose the correct word to complete the sentence: 'She has a strong __________ for learning new languages.'",
+    "options": ["passion", "passionate", "passionately", "passiveness"],
+    "answer": 0
+  },
+  {
+    "id": 25,
+    "question": "Select the word that doesn’t belong in the group:",
+    "options": ["happy", "joyful", "sad", "cheerful"],
+    "answer": 2
+  },
+  {
+    "id": 26,
+    "question": "Which of the following means 'to delay or postpone'?",
+    "options": ["expedite", "procrastinate", "accelerate", "hasten"],
+    "answer": 1
+  },
+  {
+    "id": 27,
+    "question": "Choose the word that best completes the sentence: 'The weather was __________, so the picnic was cancelled.'",
+    "options": ["unpredictable", "predictable", "predict", "prediction"],
+    "answer": 0
+  },
+  {
+    "id": 28,
+    "question": "Pick the word that means the opposite of 'scarce':",
+    "options": ["plentiful", "rare", "minimal", "insufficient"],
+    "answer": 0
+  },
+  {
+    "id": 29,
+    "question": "Which word fits best? 'The artist’s work was __________, admired by critics and fans alike.'",
+    "options": ["mediocre", "exceptional", "common", "average"],
+    "answer": 1
+  },
+  {
+    "id": 30,
+    "question": "Choose the best synonym for 'reluctant':",
+    "options": ["eager", "hesitant", "willing", "enthusiastic"],
+    "answer": 1
+  },
+  {
+    "id": 31,
+    "question": "Fill in the blank: 'She showed great __________ in overcoming the challenges.'",
+    "options": ["determination", "determined", "determine", "determines"],
+    "answer": 0
+  },
+  {
+    "id": 32,
+    "question": "Which word is an antonym of 'transparent'?",
+    "options": ["clear", "opaque", "see-through", "translucent"],
+    "answer": 1
+  },
+  {
+    "id": 33,
+    "question": "Choose the word that best fits: 'He made a __________ decision that surprised everyone.'",
+    "options": ["spontaneous", "spontaneity", "spontaneously", "spontaneousness"],
+    "answer": 0
+  },
+  {
+    "id": 34,
+    "question": "Pick the word that means 'to criticize severely':",
+    "options": ["praise", "condemn", "compliment", "applaud"],
+    "answer": 1
+  },
+  {
+    "id": 35,
+    "question": "Which word fits? 'The new policy will __________ the efficiency of the company.'",
+    "options": ["enhance", "hinder", "diminish", "reduce"],
+    "answer": 0
+  },
+  {
+    "id": 36,
+    "question": "Choose the word that best completes the sentence: 'Her attitude was __________, showing no concern for others.'",
+    "options": ["indifferent", "interested", "caring", "indifferentness"],
+    "answer": 0
+  },
+  {
+    "id": 37,
+    "question": "Which word means 'to formally accept or agree to'?",
+    "options": ["reject", "accept", "refuse", "deny"],
+    "answer": 1
+  },
+  {
+    "id": 38,
+    "question": "Pick the best word to complete the sentence: 'The mountain scenery was truly __________.'",
+    "options": ["breathtaking", "boring", "breathless", "breath"],
+    "answer": 0
+  },
+  {
+    "id": 39,
+    "question": "Choose the word that best fits: 'He spoke in a __________ voice, calming everyone down.'",
+    "options": ["soothing", "harsh", "harshly", "soothingly"],
+    "answer": 0
+  },
+  {
+    "id": 101,
+    "question": "Which word means 'to make something easier'?",
+    "options": ["complicate", "facilitate", "confuse", "hinder"],
+    "answer": 1
+  },
+  {"id":40,"question":"Choose the correct word: She ___ to the gym every morning.","options":["go","goes","going","gone"],"answer":1},
+  {"id":41,"question":"Find the correct sentence.","options":["He can to swim.","He cans swim.","He can swim.","He can swims."],"answer":2},
+  {"id":42,"question":"What is the synonym of 'happy'?","options":["sad","angry","joyful","tired"],"answer":2},
+  {"id":43,"question":"Choose the correct preposition: I'm interested ___ art.","options":["in","at","on","for"],"answer":0},
+  {"id":44,"question":"Which word is opposite in meaning to 'difficult'?","options":["easy","hard","complicated","tough"],"answer":0},
+  {"id":45,"question":"Choose the correct article: I saw ___ elephant at the zoo.","options":["a","an","the","no article"],"answer":1},
+  {"id":46,"question":"Which sentence is correct?","options":["She don't like coffee.","She doesn't likes coffee.","She doesn't like coffee.","She not like coffee."],"answer":2},
+  {"id":47,"question":"Choose the correct word: They have lived here ___ 2010.","options":["for","since","during","from"],"answer":1},
+  {"id":48,"question":"Which word best completes the sentence? He runs very ___.","options":["quick","quickly","quicker","quickness"],"answer":1},
+  {"id":49,"question":"Find the correct comparative form: This book is ___ than that one.","options":["good","better","best","more good"],"answer":1},
+  {"id":50,"question":"Choose the correct tense: She ___ her homework now.","options":["does","is doing","did","has done"],"answer":1},
+  {"id":51,"question":"Choose the best response: 'Thank you very much!'","options":["You’re fine.","No problem.","You’re welcome.","That’s okay."],"answer":2},
+  {"id":52,"question":"Find the correct sentence.","options":["He is taller that me.","He is tall than me.","He is taller than me.","He is most tall than me."],"answer":2},
+  {"id":53,"question":"Which word fits best? I couldn’t come because I was ___ busy.","options":["too","enough","very","also"],"answer":0},
+  {"id":54,"question":"Choose the correct question: ___ you like pizza?","options":["Does","Do","Are","Is"],"answer":1},
+  {"id":55,"question":"Find the correct form: I have never ___ to Paris.","options":["go","gone","went","been"],"answer":3},
+  {"id":56,"question":"Choose the right word: Please ___ the lights when you leave.","options":["close","open","turn off","stop"],"answer":2},
+  {"id":57,"question":"Which sentence is correct?","options":["If it will rain, we stay home.","If it rains, we will stay home.","If it rained, we will stay home.","If it rains, we stayed home."],"answer":1},
+  {"id":58,"question":"Choose the correct word: He speaks English ___ than I do.","options":["good","better","well","best"],"answer":1},
+  {"id":59,"question":"Which word means the same as 'purchase'?","options":["sell","buy","exchange","borrow"],"answer":1},
+  {"id":60,"question":"Choose the correct phrase: By the time she arrived, we ___ dinner.","options":["finish","finished","had finished","have finished"],"answer":2},
+  {"id":61,"question":"Find the correct sentence.","options":["There is much people in the room.","There are many people in the room.","There is many people in the room.","There are much people in the room."],"answer":1},
+  {"id":62,"question":"Choose the correct form: He suggested ___ by taxi.","options":["go","to go","going","goes"],"answer":2},
+  {"id":63,"question":"What does 'efficient' mean?","options":["wasting time","working well","being lazy","being fast but wrong"],"answer":1},
+  {"id":64,"question":"Choose the best word: The movie was really ___.","options":["bore","bored","boring","boredom"],"answer":2},
+  {"id":65,"question":"Find the correct form: If I ___ you, I would study harder.","options":["am","was","were","be"],"answer":2},
+  {"id":66,"question":"Choose the correct sentence.","options":["I look forward to see you.","I look forward to seeing you.","I am look forward to see you.","I look forward see you."],"answer":1},
+  {"id":67,"question":"Select the correct word: She managed to ___ the problem easily.","options":["solve","resolve","fix","all are correct"],"answer":3},
+  {"id":68,"question":"What is the opposite of 'increase'?","options":["decrease","rise","grow","expand"],"answer":0},
+  {"id":69,"question":"Choose the correct phrase: He’s used ___ early every day.","options":["to get up","to getting up","get up","getting up"],"answer":1},
+  {"id":70,"question":"Find the correct sentence.","options":["She said me the truth.","She told me the truth.","She said to me the truth.","She told to me the truth."],"answer":1},
+  {"id":71,"question":"Choose the correct answer: How long ___ you lived here?","options":["did","have","do","are"],"answer":1},
+  {"id":72,"question":"Which sentence is correct?","options":["The book who I read was interesting.","The book which I read was interesting.","The book where I read was interesting.","The book whom I read was interesting."],"answer":1},
+  {"id":73,"question":"Choose the correct word: I haven’t seen her ___ Monday.","options":["for","since","by","until"],"answer":1},
+  {"id":74,"question":"Find the correct meaning of 'rare'.","options":["common","unusual","boring","expensive"],"answer":1},
+  {"id":75,"question":"Choose the correct form: The project must be ___ by Friday.","options":["finish","finished","finishing","to finish"],"answer":1},
+  {"id":76,"question":"Select the correct sentence.","options":["Despite of the rain, we went out.","In spite the rain, we went out.","Although the rain, we went out.","Despite the rain, we went out."],"answer":3},
+  {"id":77,"question":"Which phrase is correct?","options":["It depends of the weather.","It depends on the weather.","It depends from the weather.","It depends in the weather."],"answer":1},
+  {"id":78,"question":"Choose the correct word: The film was so boring that I almost ___ asleep.","options":["fall","falls","fell","fallen"],"answer":2},
+  {"id":79,"question":"Find the correct expression: She said she ___ call me later.","options":["will","would","can","could"],"answer":1},
+  {"id":80,"question":"Choose the correct phrase: Not only ___ late, but he also forgot his homework.","options":["he arrived","did he arrive","he did arrive","he was arrive"],"answer":1},
+  {"id":81,"question":"What does 'essential' mean?","options":["not necessary","important","optional","unusual"],"answer":1},
+  {"id":82,"question":"Find the correct sentence.","options":["Neither of the answers are correct.","Neither of the answers is correct.","Neither of answers are correct.","Neither answers is correct."],"answer":1},
+  {"id":83,"question":"Choose the correct phrase: I wish I ___ more time to travel.","options":["have","had","will have","has"],"answer":1},
+  {"id":84,"question":"What does 'reliable' mean?","options":["can be trusted","easy to break","lazy","expensive"],"answer":0},
+  {"id":85,"question":"Choose the correct form: If I had known, I ___ helped you.","options":["would have","will have","would","had"],"answer":0},
+  {"id":86,"question":"Select the correct sentence.","options":["He succeeded to finish the work.","He succeeded in finishing the work.","He succeeded on finishing the work.","He succeeded at finishing the work."],"answer":1},
+  {"id":87,"question":"Find the correct expression: It’s high time you ___ to bed.","options":["go","goes","went","gone"],"answer":2},
+  {"id":88,"question":"Choose the best option: The manager demanded that everyone ___ on time.","options":["is","was","be","being"],"answer":2},
+  {"id":89,"question":"What is the opposite of 'polite'?","options":["rude","kind","respectful","gentle"],"answer":0},
+  {"id":90,"question":"Choose the correct sentence.","options":["He denied to steal the money.","He denied stealing the money.","He denied that he to steal.","He deny stealing the money."],"answer":1},
+  {"id":91,"question":"Which word fits best? She has a strong ___ in education.","options":["believe","believed","belief","believing"],"answer":2},
+  {"id":92,"question":"Choose the correct expression: She would rather ___ home than go out tonight.","options":["stay","stayed","to stay","staying"],"answer":0},
+  {"id":93,"question":"What does 'abandon' mean?","options":["leave behind","protect","find","continue"],"answer":0},
+  {"id":94,"question":"Choose the correct form: By next year, I ___ my degree.","options":["will finish","finish","will have finished","am finishing"],"answer":2},
+  {"id":95,"question":"Find the correct phrase: He apologized ___ being late.","options":["to","for","about","at"],"answer":1},
+  {"id":96,"question":"Choose the correct word: The results were not as good as we had ___.","options":["expect","expected","expecting","expects"],"answer":1},
+  {"id":97,"question":"Which sentence is correct?","options":["She is used to wake up early.","She is used waking up early.","She used to waking up early.","She is used to waking up early."],"answer":3},
+  {"id":98,"question":"Find the correct phrase: It’s no use ___ about it now.","options":["to worry","worry","worried","worrying"],"answer":3},
+  {"id":99,"question":"Choose the correct meaning: 'Scarce' means something that is ___.","options":["plentiful","rare","cheap","new"],"answer":1},
+  {"id":100,"question":"Choose the correct form: I prefer coffee ___ tea.","options":["than","from","to","with"],"answer":2}
+
+]

@@ -1,0 +1,22 @@
+{
+  "819765389511622688": {
+    "lastCheckin": "2026-03-19",
+    "checkinStreak": 1,
+    "exp": 50,
+    "level": 1,
+    "quiz": {
+      "date": "2026-03-19",
+      "count": 1
+    }
+  },
+  "895664059280678912": {
+    "quiz": {
+      "date": "2026-03-19",
+      "count": 1
+    },
+    "exp": 30,
+    "level": 1,
+    "lastCheckin": "2026-03-19",
+    "checkinStreak": 1
+  }
+}
